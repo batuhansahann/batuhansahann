@@ -1,8 +1,8 @@
-# Welcome to My Data Visualization and Analytics Profile 🌐
+# Welcome to My GitHub Profile 🌐
 
-![Data Visualization GIF](./BRuzgar/Data-Visualization/fire.gif)
+![Data Visualization GIF](./fire.gif)
 
-Welcome to my GitHub repository! As a **data scientist** and **data analyst**, I am passionate about visualizing data in meaningful ways to extract valuable insights. This page showcases various tools, libraries, and techniques I use to represent data effectively.
+Welcome to my GitHub profile! As a **data scientist** and **data analyst**, I am passionate about visualizing data and turning raw data into meaningful insights. This page is designed to showcase my work, skills, and projects related to data science and data visualization.
 
 ---
 
@@ -12,8 +12,8 @@ I specialize in:
 - **Data Visualization**: Transforming raw data into clear, engaging visual insights.
 - **Data Analysis**: Deriving meaningful patterns from complex datasets.
 - **Machine Learning**: Building predictive models to solve real-world problems.
-  
-I enjoy leveraging various **visualization libraries** to communicate complex information in a simple and accessible way.
+
+With my background in **statistical analysis** and **programming**, I enjoy leveraging the power of data to drive decision-making and insights.
 
 ---
 
@@ -27,7 +27,7 @@ This repository includes examples of the following data visualization libraries:
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 - **DV_Bokeh**: Projects using Bokeh for interactive visualizations.
 - **DV_Plotly**: Examples of visualizations created with Plotly.
@@ -40,20 +40,11 @@ This repository includes examples of the following data visualization libraries:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/BRuzgar/Data-Visualization.git
+    git clone https://github.com/BRuzgar/BRuzgar.git
     ```
 
-2. Navigate through the different directories to explore specific visualization tools.
-   
-3. Open the `.ipynb` files in your preferred environment (e.g., Jupyter Notebook) to run and modify the code.
+2. Explore the projects and notebooks to see different data visualization techniques.
 
 ---
 
-## 📂 Featured Notebooks
-
-- **Data.ipynb**: A notebook showcasing various types of visualizations across libraries like Bokeh, Plotly, and Seaborn.  
-- **fire.gif**: An engaging visual effect to give an overview of the repository.
-
----
-
-Thank you for visiting my repository! Feel free to explore the various projects and reach out if you'd like to discuss or collaborate on data-related topics.
+Thank you for visiting my profile! Feel free to explore the various projects and reach out if you'd like to discuss or collaborate on data-related topics.
