@@ -1,6 +1,6 @@
 # Welcome to My Data Visualization and Analytics Profile 🌐
 
-![Data Visualization GIF](./fire.gif)
+![Data Visualization GIF](./Data-Visualization/fire.gif)
 
 Welcome to my GitHub repository! As a **data scientist** and **data analyst**, I am passionate about visualizing data in meaningful ways to extract valuable insights. This page showcases various tools, libraries, and techniques I use to represent data effectively.
 
