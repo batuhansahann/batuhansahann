@@ -1,33 +1,59 @@
-# Welcome to My Data Science and Analytics Profile
+# Welcome to My Data Visualization and Analytics Profile 🌐
 
-![Profile GIF](Data-Visulation/fire.gif)
+![Data Visualization GIF](./fire.gif)
 
-Welcome to my profile! As a **data scientist** and **data analyst**, I am passionate about transforming raw data into meaningful insights. This page highlights my work, skills, and contributions in the world of data.
-
-## About Me
-
-I specialize in:
-- **Data Analysis**: Extracting valuable insights from complex datasets.
-- **Machine Learning**: Developing predictive models to solve real-world problems.
-- **Data Visualization**: Creating clear and impactful visual representations of data.
-
-With a background in both **statistical analysis** and **programming**, I enjoy leveraging the power of data to drive decision-making.
-
-## My Tools and Skills
-- **Programming Languages**: Python, R, SQL
-- **Libraries and Frameworks**: pandas, numpy, scikit-learn, TensorFlow, PyTorch
-- **Visualization**: Matplotlib, Seaborn, Plotly, Power BI
-- **Data Processing**: ETL, data cleaning, and feature engineering
-
-## Featured Projects
-Here are some of the key projects I have worked on:
-- **Project A**: A predictive model to forecast sales using time series analysis.
-- **Project B**: An interactive dashboard to visualize customer behavior trends.
-- **Project C**: A clustering analysis to segment different market audiences.
-
-Feel free to explore my repositories and reach out if you would like to collaborate or discuss data-related topics.
+Welcome to my GitHub repository! As a **data scientist** and **data analyst**, I am passionate about visualizing data in meaningful ways to extract valuable insights. This page showcases various tools, libraries, and techniques I use to represent data effectively.
 
 ---
 
-Thank you for visiting my profile, and I look forward to connecting with you!
+## 🔍 About Me
 
+I specialize in:
+- **Data Visualization**: Transforming raw data into clear, engaging visual insights.
+- **Data Analysis**: Deriving meaningful patterns from complex datasets.
+- **Machine Learning**: Building predictive models to solve real-world problems.
+  
+I enjoy leveraging various **visualization libraries** to communicate complex information in a simple and accessible way.
+
+---
+
+## 📊 Libraries and Tools
+
+This repository includes examples of the following data visualization libraries:
+
+- **Bokeh**: Interactive visualizations with large datasets.
+- **Plotly**: Beautiful, interactive, and easy-to-use visualizations.
+- **Seaborn**: Statistical data visualization based on Matplotlib.
+
+---
+
+## 📁 Repository Structure
+
+- **DV_Bokeh**: Projects using Bokeh for interactive visualizations.
+- **DV_Plotly**: Examples of visualizations created with Plotly.
+- **DV_Seaborn**: Data visualizations using Seaborn, perfect for statistical plots.
+
+---
+
+## 🛠 How to Use This Repository
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/BRuzgar/Data-Visualization.git
+    ```
+
+2. Navigate through the different directories to explore specific visualization tools.
+   
+3. Open the `.ipynb` files in your preferred environment (e.g., Jupyter Notebook) to run and modify the code.
+
+---
+
+## 📂 Featured Notebooks
+
+- **Data.ipynb**: A notebook showcasing various types of visualizations across libraries like Bokeh, Plotly, and Seaborn.  
+- **fire.gif**: An engaging visual effect to give an overview of the repository.
+
+---
+
+Thank you for visiting my repository! Feel free to explore the various projects and reach out if you'd like to discuss or collaborate on data-related topics.
